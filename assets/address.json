@@ -1,0 +1,36 @@
+{
+    "enderecos": [
+      {
+        "descricao": "Endereço 1",
+        "anfitriao": "Weslley",
+        "dia": "Terça-feira",
+        "horario": "20:00",
+        "latitude": -23.550520,
+        "longitude": -46.633308
+      },
+      {
+        "descricao": "Endereço 2",
+        "anfitriao": "Weslley",
+        "dia": "Terça-feira",
+        "horario": "20:00",
+        "latitude": -22.902780,
+        "longitude": -43.177721
+      },
+      {
+        "descricao": "Endereço 3",
+        "anfitriao": "Weslley",
+        "dia": "Terça-feira",
+        "horario": "20:00",
+        "latitude": -25.428957,
+        "longitude": -49.267137
+      },
+      {
+        "descricao": "Rua France José Cerceau, 272, Serra Verde",
+        "anfitriao": "Weslley",
+        "dia": "terças-feiras",
+        "horario": "20:00",
+        "latitude": -19.804038877376442,
+        "longitude": -43.95361183990901
+      }
+    ]
+}
