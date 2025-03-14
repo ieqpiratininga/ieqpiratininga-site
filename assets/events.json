@@ -2,21 +2,21 @@
     {
       "title": "Campanha Jornada Feliz",
       "description": "Campanha Jornada Feliz",
-      "image": "/images/agenda/campanha-quarta-feira.png"
+      "image": "images/agenda/campanha-quarta-feira.png"
     },
     {
       "title": "Projeto do metro quadrado",
       "description": "Projeto do metro quadrado",
-      "image": "/images/agenda/projeto-metro-quadrado.png"
+      "image": "images/agenda/projeto-metro-quadrado.png"
     },
     {
       "title": "Reunião de Oração",
       "description": "Reunião de Oração",
-      "image": "/images/agenda/reuniao-oracao.png"
+      "image": "images/agenda/reuniao-oracao.png"
     },
     {
       "title": "Terapia de Grupo",
       "description": "Terapia de Grupo",
-      "image": "/images/agenda/terapia-de-grupo.png"
+      "image": "images/agenda/terapia-de-grupo.png"
     }
   ]
