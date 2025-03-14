@@ -76,7 +76,7 @@
 				const closeButton = document.getElementById('close-lightbox');
 
 				// Buscar o JSON de eventos
-				fetch('/assets/events.json')
+				fetch('assets/events.json')
 					.then(response => response.json())
 					.then(images => {
 						images.forEach(image => {
