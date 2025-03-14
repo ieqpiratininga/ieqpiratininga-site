@@ -3,7 +3,7 @@
 
     // Função para carregar os dados do arquivo JSON
     function carregarEnderecos() {
-      fetch('/assets/address.json')
+      fetch('assets/address.json')
         .then(response => response.json())
         .then(data => {
           enderecos = data.enderecos; // Armazenar os endereços carregados
