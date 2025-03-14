@@ -1973,7 +1973,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #999;
+		color: #474747;
 		font-size: 1.25em;
 		position: relative;
 		margin-top: -1.25em;
@@ -3167,7 +3167,7 @@ main {
 		}
 
 			#footer .icons a {
-				color: #999;
+				color: #474747;
 			}
 
 				#footer .icons a:hover {
@@ -3180,11 +3180,11 @@ main {
 		}
 
 			#footer .contact i {
-				color: #999;
+				color: #474747;
 			}
 
 				#footer .contact span {
-					color: #999;
+					color: #474747;
 				}
 
 					#footer .contact i:hover {
@@ -3192,7 +3192,7 @@ main {
 					}
 
 		#footer .social {
-			color: #999;
+			color: #474747;
 			margin-top: 1.5em;
 			text-align: center;
 			font-size: 0.7em;
@@ -3201,14 +3201,14 @@ main {
 		}
 
 		#footer .contact {
-			color: #999;
+			color: #474747;
 			margin-top: 1.5em;
 			text-align: center;
 			font-size: 0.7em;
 		}
 
 		#footer .copyright {
-			color: #999;
+			color: #474747;
 			margin-top: 1.5em;
 			text-align: center;
 			font-size: 0.7em;
